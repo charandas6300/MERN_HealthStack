@@ -11,9 +11,7 @@
 
 <hr>
 
-<p>Client Link : https://github.com/nithin5736/MERN-HealthStack-Client </p>
-<p>Admin Link : https://github.com/nithin5736/MERN-HealthStack-Admin </p>
-<p>Server Link : https://github.com/nithin5736/MERN-Healthstack-server </p>
+
 
 <hr>
 
