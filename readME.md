@@ -9,11 +9,7 @@
 <br>
 <b>Databases:</b> MongoDB, Redis, Firebase
 
-<hr>
 
-
-
-<hr>
 
 <p>Make sure to install node</p>
 <p>Install dependencies</p>
